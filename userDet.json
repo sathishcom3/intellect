@@ -1,0 +1,4 @@
+{"1":{"id":1,"fname":"sathish 1","IName":"m","email":"sathish1@gmail.com","pinCode":123456,"birthDate":"01-01-1994","isActive":true},
+"2":{"id":2,"fname":"sathish 2","IName":"m","email":"sathish2@gmail.com","pinCode":23456,"birthDate":"01-01-1995","isActive":false},
+"3":{"id":3,"fname":"sathish 3","IName":"m","email":"sathish3@gmail.com","pinCode":3456,"birthDate":"01-01-1996","isActive":true},
+"4":{"id":4,"fname":"sathish 4","IName":"m","email":"sathish4@gmail.com","pinCode":456,"birthDate":"01-01-1997","isActive":false}}
